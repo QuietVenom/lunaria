@@ -1,4 +1,4 @@
-# Release Notes
+# Release Notes [FastAPI FullStack Template]
 
 ## Latest Changes
 
